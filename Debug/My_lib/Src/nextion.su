@@ -1,0 +1,11 @@
+../My_lib/Src/nextion.c:40:15:read_next_page	4	static
+../My_lib/Src/nextion.c:45:15:read_next_button_state	16	static
+../My_lib/Src/nextion.c:50:6:reset_next_button_state	16	static
+../My_lib/Src/nextion.c:55:15:read_res_next_button_state	24	static
+../My_lib/Src/nextion.c:65:15:read_next_object_val	16	static
+../My_lib/Src/nextion.c:70:6:read_next_loop	16	static
+../My_lib/Src/nextion.c:117:6:read_next_init	8	static
+../My_lib/Src/nextion.c:121:6:read_next_error	8	static
+../My_lib/Src/nextion.c:128:6:tim_next	24	static
+../My_lib/Src/nextion.c:150:15:read_tim_next_flag	24	static
+../My_lib/Src/nextion.c:160:6:reset_tim_next_flag	16	static
