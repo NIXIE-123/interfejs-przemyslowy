@@ -28,7 +28,6 @@
 #include <stdio.h>
 #include <string.h>
 #include "uart_lib.h"
-#include "nextion.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
